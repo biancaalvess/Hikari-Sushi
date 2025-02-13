@@ -382,7 +382,7 @@ function App() {
                     <span className="text-xl font-bold text-red-900">R$ {cartTotal.toFixed(2)}</span>
                   </div>
                   <div className="text-sm text-neutral-500">
-                    <p>Tempo estimado de entrega: 30 minutos</p>
+                    <p>Tempo estimado de preparo: 30 minutos</p>
                   </div>
                   <button
                     onClick={sendOrder}
