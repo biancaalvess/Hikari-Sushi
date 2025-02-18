@@ -1,7 +1,5 @@
 # Hikari Sushi
 
-![Hikari Sushi](https://hikari-sushi.netlify.app/logo.png)
-
 ## Sobre o Projeto
 O **Hikari Sushi** é um site desenvolvido para um restaurante de comida japonesa, proporcionando uma experiência moderna e intuitiva para os clientes. O projeto foi criado com foco na usabilidade, responsividade e design atrativo, permitindo que os usuários explorem o cardápio, façam pedidos e conheçam mais sobre o restaurante.
 
