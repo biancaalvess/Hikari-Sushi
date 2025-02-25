@@ -1,6 +1,6 @@
 # Hikari Sushi
 
-O **Hikari Sushi** é um site desenvolvido para um restaurante de comida japonesa, proporcionando uma experiência moderna e intuitiva para os clientes. O projeto foi criado com foco na usabilidade, responsividade e design atrativo, permitindo que os usuários explorem o cardápio, façam pedidos e conheçam mais sobre o restaurante.
+O Hikari Sushi é um site desenvolvido para um restaurante de comida japonesa, proporcionando uma experiência moderna e intuitiva para os clientes. O projeto foi criado com foco na usabilidade, responsividade e design atrativo, permitindo que os usuários explorem o cardápio, façam pedidos e conheçam mais sobre o restaurante.
 
 ## Tecnologias Utilizadas
 - **React.js**: Framework JavaScript para construção de interfaces dinâmicas e componentizadas.
